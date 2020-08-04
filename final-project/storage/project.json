@@ -1,0 +1,542 @@
+[
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "India Pale Ale",
+    "category": "Ale",
+    "alcohol_content": "5.6",
+    "description": "Indulge in the remarkable experience afforded by top-fermented Bernard India Pale Ale. You will be seduced by the distinct aroma, which is characterised by smooth and fresh, fruity tones that contrast perfectly with the stringent bitterness and high alcohol content (5.6) characteristic for this ale. Once you experience IPA with all your senses, you will be won over.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/bernard_ipa_india_pale_ale.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Bernard Bohemian Ale",
+    "category": "Ale",
+    "alcohol_content": "8.2",
+    "description": "Spice up your day with top fermented special beer Bernard Bohemian Ale. The beer is bottle conditioned. Despite its 8.2  alcohol has a fresh fruity scent, clean malty flavor with a pinch of spicy coriander and subtle warmth in the aftertaste.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/bernard-bohemian-ale-v03.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "CELEBRATION LAGER with fine yeast",
+    "category": "Light lager",
+    "alcohol_content": "5.0",
+    "description": "The Celebration lager with a fine yeast culture is an unpasteurized beer with distinctive flavor, fine yeast taste and aroma. The beer is secondary fermented in bottle so there can be a yeasty sediment on the bottom of the bottle, and the beer can be slightly cloudy during the consumation.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/01.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "AMBER LAGER with fine yeast",
+    "category": "Dark Lager",
+    "alcohol_content": "5.0",
+    "description": "A non-filtered pungent lager with a fine yeast culture is an unpasteurized beer with its bitterness in harmony with a fine caramel aroma and tasty fullness.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/02.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "DARK LAGER with fine yeast",
+    "category": "Dark Lager",
+    "alcohol_content": "5.0",
+    "description": "This non-filtered dark lager with a fine yeast culture is an unpasteurized beer brewed from four types of malt, with a distinctive full taste and a fine bitterness. Its special flavour makes it unique on the Czech beer market.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/03.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Gluten-free lager",
+    "category": "Light lager",
+    "alcohol_content": "4.9",
+    "description": "Gluten-free lager is intended for celiaks or person suffering from celiac disease or gluten-free diet due to the gluten content of up to 20 mg/kg. It will captivate you with traditional flavors, which is characterized by its delicate richness, balanced bitterness and delicate hop aroma and a thick and rich foam.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/bernard-bezlepkovy-lezak.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "BERNARD Free",
+    "category": "Non-Alcoholic Beer",
+    "alcohol_content": "0.5",
+    "description": "A non-alcoholic light beer produced using the traditional brewing procedure with pasteurization, preserving its original beer taste, colour and brewing aroma. The beer is pleasantly bitter with rich foam.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/04.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "BERNARD Free Amber",
+    "category": "Non-Alcoholic Beer",
+    "alcohol_content": "0.5",
+    "description": "This non-alcoholic semi-dark beer is produced using the original brewing procedure with pasteurization and has an amber colour and combines the harmony of a sweet caramel aroma with a pleasant bitter taste.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/05.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "BERNARD Free Plum",
+    "category": "Non-Alcoholic Beer",
+    "alcohol_content": "0.5",
+    "description": "A refreshing non-alcoholic plum beverage is produced using the original brewing procedure from the first-class ingredients and natural plum sauce and aroma.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/06.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "BERNARD Free Sour Cherry",
+    "category": "Non-Alcoholic Beer",
+    "alcohol_content": "0.5",
+    "description": "A refreshing non-alcoholic sour cherry beverage is produced using the original brewing procedure from the first-class ingredients and natural sour cherry sauce and aroma.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/07.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Light beer with fine yeast",
+    "category": "Light Lager",
+    "alcohol_content": "4.2",
+    "description": "Light beer Bernard with fine yeast brings you full and delicious yeast taste. This beer is characterized by pleasant bitterness, distinct pungency, with fine hop aroma and rich foam. There can be a yeasty sediment so that the beer can be slightly cloudy the consumation.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/10_kvasnicova_en.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Bohemian Lager with fine yeast",
+    "category": "Lager",
+    "alcohol_content": "4.5",
+    "description": "Light lager Bernard with fine yeast brings you delicate hop fragrance, full and delicious yeast taste and refreshing high bite. You can enjoy it at any occasion at home or with friends. There can be a yeasty sediment so that the beer can be slightly cloudy the consumation.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/lager-with-fine-yeast.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Traditional Czech Beer",
+    "category": "Light Lager",
+    "alcohol_content": "3.8",
+    "description": "An unpasteurized light tap beer with a pleasing bitterness, distinct pungency, with hop aroma and rich foam.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/08.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Bohemian Lager 4.5",
+    "category": "Lager",
+    "alcohol_content": "4.5",
+    "description": "This unpasteurized light lager is a beer with a balanced bitter taste in harmony with its tasty fullness, hop aroma and rich foam.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/09.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Bernard pivo",
+    "product_name": "Bohemian Lager 4.9",
+    "category": "Lager",
+    "alcohol_content": "4.9",
+    "description": "This unpasteurized light lager is a beer with a balanced bitter taste in harmony with its tasty fullness, hop aroma and rich foam.",
+    "image": "https://www.bernard.cz/img/edee/en/sortiment/full/10.jpg?v02",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDVAR 33",
+    "category": "Light Lager",
+    "alcohol_content": "4.6",
+    "description": "Budvar 33 is bitter. And we gave him a name accordingly. It has exactly 33 units of bitterness, mainly thanks to the Czech hop Agnus, which belongs to one of the most bitter varieties ever. 33 is also interesting with Crystal Light malt, which is used mainly in top-fermented beers. Thanks to the fact that we were not afraid to add it to a typical Czech lager, our beer acquired an interesting color and smooth smoothness.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5e9818c3c77ac2ceee65b319_Budvar_bottle_33_02C50_HiRes_RGB_s402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDWEISER BUDVAR ORIGINAL",
+    "category": "Light Lager",
+    "alcohol_content": "5.0",
+    "description": "Lettuce hops, water from 300m deep artesian wells, Moravian malt, the art of brewers and a long maturation period in lager cellars. Lager that makes a good name for Czech beer all over the world.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5e981833ad97f98beb270af4_Budvar_bottle_original_02C50_HiRes_RGB_s402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDWEISER BUDVAR ORIGINAL",
+    "category": "Light Lager",
+    "alcohol_content": "5.0",
+    "description": "Lettuce hops, water from 300m deep artesian wells, Moravian malt, the art of brewers and a long maturation period in lager cellars. Lager that makes a good name for Czech beer all over the world.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5e981833ad97f98beb270af4_Budvar_bottle_original_02C50_HiRes_RGB_s402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDVAR TAP",
+    "category": "Light Lager",
+    "alcohol_content": "4.0",
+    "description": "Traditional Czech draft beer brewed from Satu Mare hops.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5e981833ad97f98beb270af4_Budvar_bottle_original_02C50_HiRes_RGB_s402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDVAR DARK LAGER",
+    "category": "Dark Lager",
+    "alcohol_content": "4.7",
+    "description": "Dark lager with a strong, slightly bitter taste with undertones of coffee.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5ea04ecf504cdf56f06ea965_Budvar_bottle_tmavy_02C50HiRes_RGB_m20copy402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUDVAR NEALKO",
+    "category": "Non-Alcoholic Beer",
+    "alcohol_content": "0.5",
+    "description": "The taste of honest lager from Budějovice without alcohol.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5ea04f38504cdfe58a6eb018_Budvar_bottle_nealko_02C50_HiRes_RGB_s402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Budějovický Budvar",
+    "product_name": "BUD STRONG",
+    "category": "Light Lager",
+    "alcohol_content": "7.4",
+    "description": "Strong beer of golden color and strong malty taste. It matures in our lager cellars for at least 200 days.",
+    "image": "https://assets-global.website-files.com/5c62b6e570613fd36f9e6ba2/5c76608f08cdd3677c03b22e_budvar-strong402x.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro TAS",
+    "category": "Light Draft Beer",
+    "alcohol_content": "4.0",
+    "description": "The beer is named after Tas Černohorský of Boskovice, who together with his brother Jaroslav owned a brewery on the estate of Montenegro in the first half of the 16th century. This is a typical Czech beer characterized by a balanced taste and excellent foamability. Good cut and fullness encourage another sip. After drinking, it leaves a feeling of pleasant, gradually disappearing bitterness without a rough and astringent breath.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/04/CH_Tas.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Cellar",
+    "category": "Light Draft Beer",
+    "alcohol_content": "4.0",
+    "description": "The cellar is a beer with a more pronounced hop bitterness and higher fullness. Before rolling into packaging, it is not filtered and does not get rid of yeast, which gives the beer an unmistakable taste, aroma and, most importantly, appearance. The color of the beer is golden yellow to golden brown. Good cut and fullness encourage further drinking.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/04/CH_Sklepni.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Father's Day",
+    "category": "Light Lager",
+    "alcohol_content": "4.4",
+    "description": "This beer is named after Father Vincenc Ševčík, one of the founders of the Rolnická akciová společnost pivovarní a sladovní v Černá Hora in 1896. It is very popular for its quality taste and taste balance. Good cut and fullness encourage further drinking. It has a delicate, balanced hop bitterness, leaving a pleasant, slowly fading bitterness after drinking without a rough and astringent tinge.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/04/CH_Pater.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Lager",
+    "category": "Light Lager",
+    "alcohol_content": "4.8",
+    "description": "Černohorský Ležák is made from the highest quality raw materials according to one of the oldest recipes in Moravia. It is characterized by a full 'bready' taste with a higher hop bitterness, which disappears smoothly after drinking. The color changes from golden yellow to a hint of golden brown.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/04/CH_Lezak.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Grenade",
+    "category": "Dark Lager",
+    "alcohol_content": "4.5",
+    "description": "Traditional Montenegrin beer, which is made from four types of malt. As the name of this beer suggests, it is characterized by a garnet to reddish-brown color with good foaming and aftertaste. It excels in high fullness and higher sweetness. The use of Bavarian, caramel and coloring malt according to ancient recipes gives this beer an unmistakable caramel to sweet taste with slightly pronounced bitterness.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/04/CH_Granat.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Medová 13",
+    "category": "Light Lager",
+    "alcohol_content": "5.7",
+    "description": "This special is characterized by good frothiness, golden brown color, good aftertaste and fullness, ie properties that correspond to the character of Czech medium-fermented beers. Its taste combines a smooth balanced bitterness with a delicate, slightly sweet honey flavor.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/03/CH_Medova_13-scaled.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Černá Hora",
+    "product_name": "Montenegro Velen",
+    "category": "Beer full of light wheat, top fermented, unfiltered",
+    "alcohol_content": "4.8",
+    "description": "Velen beer is produced using special top-fermenting yeasts, which achieves a unique harmony of taste, in which sweet and fruity tones predominate. At least one half of the malt is made from wheat. The result is an opaque, light to straw-colored beer that smells like yeast, fruit and spices. It has a rich foam and a strong cut.",
+    "image": "https://pivovarcernahora.cz/wp-content/uploads/2020/03/CH_Velen-scaled.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL ORIGINAL PREMIUM",
+    "category": "LIGHT LAGER",
+    "alcohol_content": "4.8",
+    "description": "Light lager, which excels in full bitter taste and strong hop aroma. Beer is produced using traditional technology, typical of Czech beers. It ferments in open cellars and matures at low temperatures in lager cellars.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/50.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL TUDOR",
+    "category": "Light Draft Beer",
+    "alcohol_content": "4.4",
+    "description": "Light draft beer characterized by intense bitterness, golden color, thick white foam and a strong full taste. It is brewed in the traditional way, typical of Czech beers, where it is fermented in open cellars, matured at low temperatures in lager cellars.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/49.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL HAŠKŮV TRADITIONAL",
+    "category": "Light Draft Beer",
+    "alcohol_content": "4.1",
+    "description": "Light draft beer with more pronounced bitterness, which is balanced by a fresh hop aroma and fuller taste. Beer matures at low temperatures in lager cellars.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/48.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL BLACK",
+    "category": "DARK LAGER",
+    "alcohol_content": "4.7",
+    "description": "Dark lager is characterized by a thick foam, sweet taste, mild bitterness and deep black color. The beer is brewed using a traditional technological process, where it is fermented in open cellars and matured at low temperatures in lager cellars. For several years in a row, Rebel Černý has regularly been at the forefront of tasting competitions not only in the Czech Republic but also abroad.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/45.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL NEALKO",
+    "category": "LIGHT",
+    "alcohol_content": "0.5",
+    "description": "Light non-alcoholic beer is characterized by its golden color, rich foam, strong bitterness and fresh hop aroma. When brewing this beer, a balanced combination of light and Bavarian malt with the highest quality varieties of Satu Mare hops is used.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/42.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL INDIA PALE ALE",
+    "category": "TOP-FERMENTED STRONG",
+    "alcohol_content": "6.3",
+    "description": "IPA is a top-fermented semi-dark beer. Its uniqueness lies in the intense bitterness, copper color and slightly fruity and hop taste. It is cooked from five types of malt and four types of hops. When fermenting in lager tanks, the 'dry hopping' or 'cold hops' method is used, in which special aromatic hops are added.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/43.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL WHEAT",
+    "category": "TOP-FERMENTED UNFILTERED FULL",
+    "alcohol_content": "5.0",
+    "description": "Top-fermented wheat beer is characterized by a light to straw color with high saturation and rich foam. Rebel Wheat has a strong intense taste of fruit with hints of vanilla, banana and spices. This sharp and refreshing beer is suitable for refreshment not only on hot summer days, but also a pleasant variety for those who like to discover non-traditional and interesting tastes.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/47.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL HOLIDAY SPECIAL",
+    "category": "STRONGLY",
+    "alcohol_content": "6.2",
+    "description": "Strong beer characterized by thick white foam, higher bitterness and harmonious full taste. Beer is brewed from Czech malts in the traditional two-mouth method. It differs from other beers by its spicy to citrus aroma from the added specially bred variety of wild Caucasian hops.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/46.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL REBEL GRAPEFRUIT & LEMON",
+    "category": "MIXED BEER DRINK",
+    "alcohol_content": "2.0",
+    "description": "Refreshing light beer drink with fruit flavor of grapefruit and lemon. It is made from purely natural raw materials and does not contain any preservatives or dyes. Low-alcohol drink ideal for hot summer days, leisure or sports activities.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/44.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL CHERRY",
+    "category": "DARK LAGER WITH FLAVOR",
+    "alcohol_content": "4.7",
+    "description": "Dark lager, which is characterized by a deep black color, a distinctive cherry taste and aroma of cherry seeds. The beer consists of dark Rebel beer, a natural fruity aroma without artificial colors and sweeteners.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/41.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL XI",
+    "category": "LIGHT LAGER",
+    "alcohol_content": "4.6",
+    "description": "Light lager, which excels in a pleasant hop and malt aroma. The beer is brewed using traditional technology, fermented in open cellars and matured at low temperatures in lager cellars. It is an ideal choice for those who appreciate its fullness, strong cut and rich foam.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/149.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL 0.0",
+    "category": "Light non-alcoholic beer",
+    "alcohol_content": "0.5",
+    "description": "Light non-alcoholic beer is characterized by medium bitterness, rich foam and balanced hop taste. In its production, the highest quality varieties of Satu Mare hops are used. Suitable for drivers.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/150.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "REBEL",
+    "category": "MIXED BEER DRINK",
+    "alcohol_content": "2.0",
+    "description": "A light and refreshing citrus-flavored beer drink without artificial colors. The rebel combines an unusual combination of sour lemon and bitter grapefruit. Thanks to its low alcohol content, it is a great refreshment on hot summer days.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/151.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Měšťanský pivovar Havlíčkův Brod",
+    "product_name": "VOTROK",
+    "category": "LIGHT LAGER",
+    "alcohol_content": "4.8",
+    "description": "Light lager with thick, creamy foam, medium fullness and balanced bitterness. It is made from the highest quality raw materials and matures in lager cellars at low temperatures. It is brewed with traditional technology, typical of Czech beers, which gives it an unmistakable and rich taste.",
+    "image": "https://www.hbrebel.cz/photos/texty/p/0/144.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar a sodovkárna Jihlava, a.s.",
+    "product_name": "Hedgehog 11",
+    "category": "Light lager beer",
+    "alcohol_content": "4.8",
+    "description": "Just as the hedgehog is a symbol of the silver city of Jihlava, so the Ježek 11 lager is a representative of taste and the 'family silver' of the Jihlava Brewery. This lager is characterized by a balanced full taste and pronounced bitterness, complemented by an exceptional hop aroma of delicate Satu Mare varieties. It has a golden color and a perfect cut.",
+    "image": "https://pivovar-jihlava.cz/wp-content/uploads/2020/04/JIHLAVA_11.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar a sodovkárna Jihlava, a.s.",
+    "product_name": "Hedgehog 10 Bar",
+    "category": "Light draft beer",
+    "alcohol_content": "4.2",
+    "description": "Ježek 10 Šenkové is an honest ten of Czech malt and Satu Mare hops, which is characterized by a balanced taste, good bitterness and excellent drinkability. It has a golden color and quality rind.",
+    "image": "https://pivovar-jihlava.cz/wp-content/uploads/2020/04/JIHLAVA_Senkovni.jpg",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler 0.0 Lemon, elderflower and mint",
+    "category": "Mixed drink from soft beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen Radler 0.0 flavor of lemon, elderflower and mint brings a combination of the taste of lemon juice with a hint of beer bitterness, which is complemented by a cool touch of mint and the intoxicating aroma of elderflower. The combination of non-alcoholic beer with a refreshing lemonade created a unique Radler 0.0 - the only radler without a drop of alcohol.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-00-citron.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler 0.0 Grapefruit and rosemary",
+    "category": "Mixed drink from soft beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen Radler 0.0 with grapefruit and rosemary flavor brings a combination of the taste of refreshing grapefruit supplemented with a pleasantly aromatic rosemary oil. Ideal refreshment for those who prefer a fresh drink with a slightly higher bitterness. The combination of non-alcoholic beer with a refreshing lemonade created a unique 0.0 radler - the only radler without a drop of alcohol.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-00-grep.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler 0.0 Dark cherry",
+    "category": "Mixed drink from soft beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen Radler 0.0 with dark cherry flavor brings a combination of dark beer taste complemented by a pleasantly sweet taste of cherry juice. Ideal refreshment for those who prefer a sweeter drink that tastes not only in summer! The combination of non-alcoholic beer with a refreshing lemonade created a unique 0.0 radler - the only radler without a drop of alcohol.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-00-visen.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler 0.0 Mandarin and jasmine",
+    "category": "Mixed drink from soft beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen Radler 0.0 with mandarin and jasmine flavor brings a combination of the taste of refreshing mandarin and soft, pleasantly aromatic jasmine. Ideal refreshment for those who prefer a fresh drink with an herbal undertone. The combination of non-alcoholic beer with a refreshing lemonade created a unique Radler 0.0 - the only radler without a drop of alcohol.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-00-mandarinka.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler 0.0 Black currants and lavender",
+    "category": "Mixed drink from soft beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen Radler 0.0 with blackcurrant and lavender flavors excels not only in the refreshing taste of currant juice, but also in the pleasant fresh aroma of lavender. The sweetness of the fruit and the delicate aroma of lavender complement the bitterness of the non-alcoholic beer. The combination of non-alcoholic beer with a refreshing lemonade created a unique 0.0 radler - the only radler without a drop of alcohol.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-00-levandule.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen 0.0 Light",
+    "category": "Non-alcoholic light-flavored beer",
+    "alcohol_content": "0",
+    "description": "Zlatopramen 0.0 is a non-alcoholic beer without a single drop of alcohol. Unlike other non-alcoholic beers, it has a composition of 0.0 alcohol and still retains the delicious slightly bitter taste of real beer. It is ideal for moments that you want to experience to the fullest, but also to have all your senses under control.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/nealko-plech.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler Lemon",
+    "category": "Mixed draft beer",
+    "alcohol_content": "1.9",
+    "description": "Zlatopramen Radler lemon is a beer that has juice! In addition to beer, it also contains lemon juice, thanks to which it becomes the right fruit refreshment for steamy summer days.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/nealko-plech.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler Grapefruit",
+    "category": "Mixed draft beer",
+    "alcohol_content": "1.9",
+    "description": "Zlatopramen Radler grapefruit is a beer that has juice! In addition to beer, it also contains grapefruit juice, thanks to which it becomes the right fruit refreshment for hot summer days.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-grep.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler Orange and ginger",
+    "category": "Mixed draft beer",
+    "alcohol_content": "1.9",
+    "description": "Zlatopramen Radler orange and ginger is a beer that has juice! In addition to beer, it also contains orange juice, thanks to which it becomes the right fruit refreshment for steamy summer days.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-pomeranc.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Radler Orange and ginger",
+    "category": "Mixed draft beer",
+    "alcohol_content": "1.9",
+    "description": "Zlatopramen Radler orange and ginger is a beer that has juice! In addition to beer, it also contains orange juice, thanks to which it becomes the right fruit refreshment for steamy summer days.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/radler-pomeranc.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen non-alcoholic",
+    "category": "Non-alcoholic light beer",
+    "alcohol_content": "0.5",
+    "description": "Zlatopramen non-alcoholic is a non-alcoholic beer, characterized by its delicious slightly bitter taste of real beer. It is ideal for moments that you want to experience to the fullest, but also to have all your senses under control.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/nealko-sklo.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen 11",
+    "category": "Light lager beer",
+    "alcohol_content": "4.9",
+    "description": "Zlatopramen 11 is a popular Czech eleven, cooked under the supervision of our experienced brewers. The beer excels with its unique taste and taste. Enjoy the popular Czech eleven in full sips. Cheers.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/zlatopramen-sklo.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen 11",
+    "category": "Light lager beer",
+    "alcohol_content": "4.9",
+    "description": "Zlatopramen 11 is a popular Czech eleven, cooked under the supervision of our experienced brewers. The beer excels with its unique taste and taste. Enjoy the popular Czech eleven in full sips. Cheers.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/zlatopramen-plech.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen 11",
+    "category": "Light lager beer",
+    "alcohol_content": "4.9",
+    "description": "Zlatopramen 11 is a popular Czech eleven, cooked under the supervision of our experienced brewers. The beer excels with its unique taste and taste. Enjoy the popular Czech eleven in full sips. Cheers.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/zlatopramen-plast.png",
+    "price": "CZK: 100Kc(4Euro) "
+  },
+  {
+    "company_name": "Pivovar Krásné Březno",
+    "product_name": "Zlatopramen Tap bright",
+    "category": "Light lager beer",
+    "alcohol_content": "3.8",
+    "description": "Zlatopramen is a premium product with a tradition of production dating back to 1642. It is a beer with a bright golden appearance, rich foam and aftertaste, delicate hop aroma and pleasant bitterness.",
+    "image": "https://www.zlatopramen.cz/images/produkty/male/vycepni.png",
+    "price": "CZK: 100Kc(4Euro) "
+  }
+]
